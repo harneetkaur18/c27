@@ -1,0 +1,43 @@
+ul{
+    list-style:none;
+    
+}
+#mymenu{
+    font-size:25px;
+    color:indianred;
+}
+#myslider{
+    background-color: plum;
+}
+img{
+    height:300px;
+    width:250px;
+    margin-top:20px;
+}
+li{
+    margin:15px;
+}
+#iphone img{
+    border-bottom:10px ridge grey;
+    border-radius: 30px;
+}
+#air img{
+    height:300px;
+    width:200x;
+    box-shadow:10px 15px 30px black;
+}
+.reviewhead{
+    font-size:25px;
+    padding:10px;
+    border-radius:15px;
+    margin:20px;
+    width:100%;
+    color:deeppink;
+    display:inline-block;
+}
+.reviewhead i{
+    float:right;
+}
+.reviewtext span{
+    color:green;
+}
